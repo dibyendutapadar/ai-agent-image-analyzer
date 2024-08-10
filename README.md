@@ -22,9 +22,11 @@ Ever struggled with selecting the best photo or coming up with a catchy caption?
 
 ## 🛠 Installation & Setup
 
+Make sure you have installed ollama and have the models llava and llama3.1 of your choice pulled in your local system
+
 1. **Clone the Repo**:
     ```bash
-    git clone https://github.com/yourusername/insta-influencer-analyzer.git
+    git clone https://github.com/dibyendutapadar/insta-influencer-analyzer.git
     ```
 2. **Navigate to the Directory**:
     ```bash
@@ -39,5 +41,5 @@ Ever struggled with selecting the best photo or coming up with a catchy caption?
 
 5. **Run the App**:
     ```bash
-    streamlit run app.py
+    streamlit run <desired app file name>.py
     ```
