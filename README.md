@@ -37,7 +37,7 @@ Make sure you have installed ollama and have the models llava and llama3.1 of yo
     pip install -r requirements.txt
     ```
 4. **Set Up Your API Keys**:
-   - Add your Groq API key in the `secrets.toml` file.
+   - In case you want to use apis such as groq, add your Groq API key in the `secrets.toml` file.
 
 5. **Run the App**:
     ```bash
